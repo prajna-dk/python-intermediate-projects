@@ -44,7 +44,6 @@ The project demonstrates how multiple classes can work together to create a modu
 
 ├── main.py
 ├── menu.py
-├── menu_item.py
 ├── coffee_maker.py
 ├── money_machine.py
 └── README.md
