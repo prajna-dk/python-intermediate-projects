@@ -66,19 +66,6 @@ python-intermediate-projects/
 
 This repository is actively maintained and updated with new projects as I continue learning and practicing Python.
 
-Upcoming project ideas include:
-
-- Password Generator
-- Hangman Game
-- Quiz Application
-- Expense Tracker
-- Student Management System
-- Banking System Simulator
-- File Organizer
-- Weather Application
-- Data Processing Projects
-- API-Based Projects
-
 ---
 
 ## 💡 Why This Repository?
