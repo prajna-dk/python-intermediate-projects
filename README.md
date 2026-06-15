@@ -29,6 +29,9 @@ Each project focuses on applying Python concepts to build practical applications
 - Tuples
 - Sets
 - Modular Programming
+- Object-Oriented Programming (OOP)
+- Classes & Objects
+- Method Invocation
 - File Handling
 - Error Handling
 - User Input Processing
@@ -42,6 +45,7 @@ Each project focuses on applying Python concepts to build practical applications
 | Project                      | Description                                                                        | Concepts                       |
 | ---------------------------- | ---------------------------------------------------------------------------------- | ------------------------------ |
 | Coffee Machine Simulator     | Simulates a coffee vending machine with resource management and payment processing | Functions, Dictionaries, Loops |
+| Coffee Machine Simulator (Object-Oriented Programming) | A modular coffee machine application built using pre-defined classes and objects to manage menu operations, resources, and payments. | Object-Oriented Programming (OOP), Classes, Objects, Methods, Modular Programming
 | More projects coming soon... | Continuously updated as I learn                                                    | Various Python Concepts        |
 
 ---
@@ -53,7 +57,7 @@ python-intermediate-projects/
 
 ├── 01_coffee_machine_simulator/
 │
-├── 02_project_name/
+├── 02_coffee_machine_oop/
 │
 ├── 03_project_name/
 │
