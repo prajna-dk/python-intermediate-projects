@@ -64,7 +64,8 @@ Each project focuses on applying Python concepts to build practical applications
 |---------|-------------|--------------|
 | ☕ Coffee Machine Simulator | Simulates a coffee vending machine with resource management and payment processing. | Functions, Dictionaries, Loops |
 | ☕ Coffee Machine Simulator (OOP) | A modular coffee machine application built using predefined classes and objects to manage menu operations, resources, and payments. | Object-Oriented Programming, Classes, Objects, Methods, Modular Programming |
-| 🧠 Quiz Game | An interactive command-line True/False quiz application that manages questions, validates answers, tracks scores, and demonstrates modular object-oriented design. | OOP, Classes, Objects, Lists, User Input, Methods, String Manipulation |
+| 🧠 Quiz Game | An interactive command-line True/False quiz application that manages questions, validates answers, tracks scores, and demonstrates modular object-oriented design. | OOP, Classes, Objects, Lists, User Input, Methods, String Manipulation |\
+| 🎨 Hirst Dot Painting Generator | A Python Turtle Graphics project that generates a colorful dot painting inspired by the artwork of Damien Hirst. | Functions, Loops, Turtle Graphics, RGB Colors, Randomization, Coordinate Positioning, Python Modules |
 | 🚧 More projects coming soon... | Continuously updated as I learn and build more intermediate Python applications. | Various Python Concepts |
 
 ---
@@ -80,7 +81,7 @@ python-intermediate-projects/
 │
 ├── 03_quiz_game/
 │
-├── 04_project_name/
+├── 04_hirst_painting/
 │
 └── README.md
 ```
