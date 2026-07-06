@@ -1,0 +1,82 @@
+# 🐢 Turtle Racing Game
+
+A fun interactive racing game built using Python's **Turtle Graphics** module.
+
+The player predicts which colored turtle will win the race before it starts. Each turtle moves forward by a random distance every turn, making every race unique. The game announces whether the player's prediction was correct once a turtle reaches the finish line.
+
+---
+
+## 📌 Features
+
+- Interactive user prediction
+- Seven uniquely colored racing turtles
+- Randomized race movement
+- Automatic winner detection
+- Simple graphical interface using Turtle Graphics
+
+---
+
+## 🛠 Technologies Used
+
+- Python 3
+- Turtle Graphics
+- Random Module
+
+---
+
+## 📚 Concepts Practiced
+
+- Object-Oriented Programming (Objects)
+- Turtle Graphics
+- Lists
+- Loops
+- Conditional Statements
+- Randomization
+- User Input
+- Coordinate Positioning
+- Game Logic
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository.
+2. Navigate to this project folder.
+3. Run:
+
+```bash
+python main.py
+```
+
+4. Enter the color of the turtle you think will win.
+5. Watch the race and see if your prediction was correct!
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped reinforce:
+
+- Creating multiple objects dynamically
+- Managing collections of objects
+- Using randomness to simulate events
+- Building simple graphical games
+- Working with Turtle Graphics
+- Designing event-driven applications
+
+---
+
+## 📷 Preview
+
+Seven colorful turtles line up at the starting line and race toward the finish, with each race producing a different outcome due to random movement.
+
+---
+
+## 🚀 Future Improvements
+
+- Display the winner on the game screen
+- Add a restart option
+- Allow users to customize the number of racers
+- Add race speed selection
+- Implement a scoreboard
+- Animate the finish line
