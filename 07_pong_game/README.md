@@ -52,7 +52,7 @@ pong_game/
 
 ├── main.py
 ├── ball.py
-├── peddel.py
+├── paddle.py
 ├── scoreboard.py
 └── README.md
 ```
